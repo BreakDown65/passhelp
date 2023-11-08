@@ -1,4 +1,4 @@
-[**Launch the generator ➡️**](https://passhelp.github.io/generator/)
+[**Launch the generator ➡️**](https://BreakDown65.github.io/generator/)
 
 # the little password helper #
 
